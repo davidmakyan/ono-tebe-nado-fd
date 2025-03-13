@@ -1,0 +1,59 @@
+
+.header__menu {
+  font-family: 'Raleway', sans-serif;
+  font-size: 18px;
+  display: flex;
+  /* grid-template-columns: 1fr min-content 1fr; */
+  justify-content: space-between;
+  align-items: center;
+  padding-top: 92px;
+  padding-bottom: 96px;
+  padding-right: 50px;
+  padding-left: 50px; 
+}
+
+
+.header__list_menu {
+  display: flex;
+  gap: 13px;
+  text-decoration: none;
+  width: 391px;
+  height: 22px;
+}
+
+.header__link_active {
+  text-decoration: none;
+  color: black;
+}
+
+.header__link_active:visited {
+  color: black;
+}
+
+.header__list_item {
+  text-decoration: underline;
+  color: black;
+}
+
+.header__list_item:visited {
+  color: black;
+}
+
+.header__logo a img {
+  height: 105px;
+  width: 148px;
+}
+
+.header__adress {
+  width: 240px;
+  /* margin-left: 184px; */
+}
+
+.header__adress__link {
+  text-decoration: underline;
+  color: black;
+}
+
+.header__adress__link:visited {
+  color: black;
+}

@@ -1,0 +1,60 @@
+.footer {
+  margin: 0 auto;
+  max-width: 1100px;
+}
+
+.footer_flex {
+display: flex;
+justify-content: space-between;
+}
+
+.footer__adress {
+  font-family: 'Raleway', sans-serif;
+  font-size: 18px;
+  width: 264px;
+  height: 98px;
+}
+
+.footer__adress__link {
+  text-decoration: underline;
+  color: #000;
+}
+
+.footer__adress__link {
+  color: #000;
+}
+
+.footer__menu-list {
+  font-family: 'Raleway', sans-serif;
+  font-size: 18px;
+}
+
+.footer__menu {
+  display: flex;
+  flex-direction: column;
+  margin-left: 155px;
+}
+
+.footer__menu-link_active {
+  text-decoration: none;
+  color: #000;
+}
+
+.footer__menu-link_active {
+color: #000;
+}
+
+.footer__menu-list-item {
+  text-decoration: underline;
+  color: #000;
+}
+
+.footer__social-list {
+  display: flex;
+  flex-direction: row;
+  gap: 48px;
+  padding-top: 1px;
+  padding-right: 50px;
+  height: 48px;
+}
+
