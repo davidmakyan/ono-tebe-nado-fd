@@ -5,7 +5,7 @@
   background-position: center;
   background-size: cover;
   margin: 0 auto;
-  
+  overflow-x: hidden;
 }
 
 .cover__overlay {
@@ -55,7 +55,7 @@
 }
 
 .cover__description-text {
-  font-family: 'Raleway', sans-serif;;
+  font-family: 'Raleway', sans-serif;
   font-weight: 400;
   font-size: 22px;
   line-height: 127%;

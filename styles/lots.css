@@ -1,6 +1,7 @@
 
 .lots {
   margin: 0 auto;
+  overflow-x: hidden;
 }
 
 .lots__heading {
@@ -28,10 +29,6 @@
   height: 596px;
   
   
-}
-
-.card-link {
-
 }
 
 a {
@@ -75,7 +72,7 @@ a {
 }
 
 .card__text {
-  font-family: 'Raleway', sans-serif;;
+  font-family: 'Raleway', sans-serif;
   font-weight: 400;
   font-size: 20px;
   line-height: 120%;
@@ -100,5 +97,4 @@ a {
   padding-left: 40px;
   padding-bottom: 0;
   text-decoration: underline;
-
 }
