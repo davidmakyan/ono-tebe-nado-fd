@@ -18,9 +18,9 @@
 }
 
 .about_column {
+  margin-top: 100px;
   display: flex;
   flex-direction: column;
-  width: 1052px;
   height: 595px;
 }
 
