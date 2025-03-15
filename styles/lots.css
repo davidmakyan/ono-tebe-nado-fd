@@ -11,24 +11,20 @@
   text-transform: uppercase;
   color: #000;
   padding-top: 180px;
-  padding-left: 64px;
+  padding-left: 40px;
   padding-bottom: 27px;
 }
 
 .lots__card-list {
   display: flex;
   justify-content: center;
-  gap: 25px;
-  
-  
+  gap: 25px; 
 }
 
 .lots__card-list-item {
   display: flex;
   width: 334px;
   height: 596px;
-  
-  
 }
 
 a {
@@ -51,12 +47,10 @@ a {
   justify-content: space-between;
 }
 
-.card_type_film {
-  
+.card_type_film { 
   justify-content: space-between;
   background-image: url("/images/photo.png");
   background-repeat: no-repeat;
-
 }
 
 .card__title {
@@ -68,7 +62,6 @@ a {
   text-decoration: underline;
   text-decoration-skip-ink: none;
   color: #fff;
-
 }
 
 .card__text {
